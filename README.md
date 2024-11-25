@@ -36,6 +36,8 @@ Welcome to my portfolio of data analysis projects! This repository showcases cas
 
 ---
 
-Feel free to explore the individual project folders for detailed analysis and code! ## Kaggle Notebook
+Feel free to explore the individual project folders for detailed analysis and code! 
+
+## Kaggle Notebook
 These projects were originally developed on Kaggle. The notebooks are available for review [here](https://www.kaggle.com/esinsari/code).
 
